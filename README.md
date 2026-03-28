@@ -1,4 +1,4 @@
-Hi, **I’m Hamza Mobeen**
+# 👋 Hi, I’m **Hamza Mobeen**
 
 **Technical Product Manager | Digital Technology | AI & Innovation**
 
@@ -82,5 +82,4 @@ Community-driven learning and knowledge sharing
 
 📩 Let’s connect to discuss product, AI, digital systems, or collaboration.
 
-**Hamza Mobeen**
-Building digital products, systems, and communities that create real impact.
+**Hamza Mobeen** - Building digital products, systems, and communities that create real impact.
