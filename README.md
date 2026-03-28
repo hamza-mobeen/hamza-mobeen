@@ -8,12 +8,12 @@ I’m a Technical Product Manager working at the intersection of Digital Technol
 
 ## 🧠 What I Do
 
-**Technical Product Management** – Leading end-to-end product development across complex digital systems
-**AI & Data-Driven Products** – Applying AI and analytics to improve decision-making and user experiences
-**Platform & Systems Thinking** – Designing scalable architectures, workflows, and integrations
-**Product Strategy & Prioritization** – Aligning business goals, user needs, and technology capabilities
-**API & Integration Design** – Defining contracts, workflows, and system interactions
-**Digital Platforms (Fintech & Enterprise)** – Building secure, compliant, and high-performing systems
+* **Technical Product Management** : Leading end-to-end product development across complex digital systems
+* **AI & Data-Driven Products** : Applying AI and analytics to improve decision-making and user experiences
+* **Platform & Systems Thinking** : Designing scalable architectures, workflows, and integrations
+* **Product Strategy & Prioritization** : Aligning business goals, user needs, and technology capabilities
+* **API & Integration Design** : Defining contracts, workflows, and system interactions
+* **Digital Platforms (Fintech & Enterprise)** : Building secure, compliant, and high-performing systems
 
 ---
 
